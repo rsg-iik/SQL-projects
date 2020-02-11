@@ -1,6 +1,6 @@
 # SQL-projects
-Analyzing CIA Factbook data 
-In this project, I wiwoll rk with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. 
+Analyzing CIA Factbook data - SQL fundamentals project
+In this project, I will work with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. 
 The Factbook contains demographic information like:
 
 population - The population as of 2015.
